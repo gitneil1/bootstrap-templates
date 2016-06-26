@@ -1,0 +1,16 @@
+/*
+Name: main.css
+Author: Neil Agor
+Date: June 26, 2016
+Description:
+    Main style for Twitter Bootstrap Sample Portfolio
+*/
+.navbar{
+    margin-bottom:  0;
+    border-radius: 0;
+}
+
+footer{
+    background-color: #f2f2f2;
+    padding: 25px;
+}
